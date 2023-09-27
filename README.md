@@ -1,8 +1,8 @@
 # HW2
-name: Zhongtian Zhai
-school email:zzhai4@u.rochester.edu
-date of submission: Sep 27, 2023
-assignment number: HW2
+Name: Zhongtian Zhai
+School email:zzhai4@u.rochester.edu
+Date of submission: Sep 27, 2023
+Assignment number: MathLoops
 
 Algorithm description: Generally, this code can test whether an integer is a prime number and the prime factors of a nonprime integer. 
 This program accept inputs line-by-line until "quit" is typed to quit the program. Each line input should start with "prime" or "factors"
